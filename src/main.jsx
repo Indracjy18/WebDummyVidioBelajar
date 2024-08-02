@@ -10,7 +10,7 @@ import BerandaLayouts from "./components/Layouts/BerandaLayouts";
 
 const router = createBrowserRouter([
   {
-    path: "",
+    path: "/",
     errorElement: <ErrorPage />,
   },
   {

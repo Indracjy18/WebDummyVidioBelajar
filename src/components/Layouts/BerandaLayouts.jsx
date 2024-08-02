@@ -54,7 +54,7 @@ const BerandaLayouts = () => {
       price: "Rp.300K",
     },
     {
-      imgSrc: "./img/leptop.png",
+      imgSrc: "./img/leptop2.png",
       title: "Big 4 Auditor Financial Analyst",
       description:
         "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan...",
